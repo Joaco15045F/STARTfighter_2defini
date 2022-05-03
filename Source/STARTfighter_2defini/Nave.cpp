@@ -47,4 +47,4 @@ void ANave::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 
 //INGE AQUI ESTÁ EL DIRECTORIO DEL GIT HUB DEL LABORATORIO 3
 // AQUI ESTA EL SOURCE
-//https://github.com/Joaco15045F/LABORATORIO-3/blob/main/Source.rar
+//https://github.com/Joaco15045F/STARTfighter_2defini
